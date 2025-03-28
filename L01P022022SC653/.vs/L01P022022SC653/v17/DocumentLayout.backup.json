@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|d:\\clases\\desarrollo web\\avance 27-03-2025\\l01p022022sc653\\l01p022022sc653\\l01p022022sc653\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|solutionrelative:l01p022022sc653\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|d:\\clases\\desarrollo web\\avance 27-03-2025\\l01p022022sc653\\l01p022022sc653\\l01p022022sc653\\controllers\\alumnoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|solutionrelative:l01p022022sc653\\controllers\\alumnoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|d:\\clases\\desarrollo web\\avance 27-03-2025\\l01p022022sc653\\l01p022022sc653\\l01p022022sc653\\controllers\\departamentoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|solutionrelative:l01p022022sc653\\controllers\\departamentoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|d:\\clases\\desarrollo web\\avance 27-03-2025\\l01p022022sc653\\l01p022022sc653\\l01p022022sc653\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|solutionrelative:l01p022022sc653\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|d:\\clases\\desarrollo web\\avance 27-03-2025\\l01p022022sc653\\l01p022022sc653\\l01p022022sc653\\controllers\\facultadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|solutionrelative:l01p022022sc653\\controllers\\facultadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|d:\\clases\\desarrollo web\\avance 27-03-2025\\l01p022022sc653\\l01p022022sc653\\l01p022022sc653\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAA7FB0-E2AF-4418-ADA2-BBCFEB4A6F31}|L01P022022SC653\\L01P022022SC653.csproj|solutionrelative:l01p022022sc653\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "L01P022022SC653\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "L01P022022SC653\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:43:14.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnoesController.cs",
+              "DocumentMoniker": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Controllers\\AlumnoesController.cs",
+              "RelativeDocumentMoniker": "L01P022022SC653\\Controllers\\AlumnoesController.cs",
+              "ToolTip": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Controllers\\AlumnoesController.cs",
+              "RelativeToolTip": "L01P022022SC653\\Controllers\\AlumnoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:42:11.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartamentoesController.cs",
+              "DocumentMoniker": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Controllers\\DepartamentoesController.cs",
+              "RelativeDocumentMoniker": "L01P022022SC653\\Controllers\\DepartamentoesController.cs",
+              "ToolTip": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Controllers\\DepartamentoesController.cs",
+              "RelativeToolTip": "L01P022022SC653\\Controllers\\DepartamentoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:40:29.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MateriasController.cs",
+              "DocumentMoniker": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Controllers\\MateriasController.cs",
+              "RelativeDocumentMoniker": "L01P022022SC653\\Controllers\\MateriasController.cs",
+              "ToolTip": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Controllers\\MateriasController.cs",
+              "RelativeToolTip": "L01P022022SC653\\Controllers\\MateriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:39:57.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacultadesController.cs",
+              "DocumentMoniker": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Controllers\\FacultadesController.cs",
+              "RelativeDocumentMoniker": "L01P022022SC653\\Controllers\\FacultadesController.cs",
+              "ToolTip": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Controllers\\FacultadesController.cs",
+              "RelativeToolTip": "L01P022022SC653\\Controllers\\FacultadesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:39:29.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Program.cs",
+              "RelativeDocumentMoniker": "L01P022022SC653\\Program.cs",
+              "ToolTip": "D:\\Clases\\Desarrollo web\\Avance 27-03-2025\\L01P022022SC653\\L01P022022SC653\\L01P022022SC653\\Program.cs",
+              "RelativeToolTip": "L01P022022SC653\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:37:09.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

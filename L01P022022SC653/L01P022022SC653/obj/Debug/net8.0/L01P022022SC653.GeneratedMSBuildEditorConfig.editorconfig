@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = L01P022022SC653
+build_property.RootNamespace = L01P022022SC653
+build_property.ProjectDir = D:\Clases\Desarrollo web\Avance 27-03-2025\L01P022022SC653\L01P022022SC653\L01P022022SC653\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Clases\Desarrollo web\Avance 27-03-2025\L01P022022SC653\L01P022022SC653\L01P022022SC653
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Alumnoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Alumnoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Alumnoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Alumnoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Alumnoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Departamentoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Departamentoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Departamentoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Departamentoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Departamentoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Facultades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0YWRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Facultades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0YWRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Facultades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0YWRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Facultades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0YWRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Facultades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0YWRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Materias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Materias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Materias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Materias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Materias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Clases/Desarrollo web/Avance 27-03-2025/L01P022022SC653/L01P022022SC653/L01P022022SC653/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6jxuvq135a
